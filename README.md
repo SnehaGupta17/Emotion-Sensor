@@ -54,7 +54,9 @@ It classifies emotions such as **Happy, Sad, Relaxed, and Angry** based on physi
 
 ---
 
-## 📸 Output Result
+## 📸 Demo Result
+
+![Demo Screenshot](Screenshot.jpeg)
 
 ---
 
